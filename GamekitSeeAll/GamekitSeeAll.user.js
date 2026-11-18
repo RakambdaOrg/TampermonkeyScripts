@@ -7,8 +7,8 @@
 // @match        https://gamekit.com/*/*
 // @match        https://dogry.pl/*/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.user.js
-// @downloadURL  https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.user.js
+// @updateURL    https://raw.githubusercontent.com/RakambdaOrg/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.user.js
+// @downloadURL  https://raw.githubusercontent.com/RakambdaOrg/TampermonkeyScripts/master/GamekitSeeAll/GamekitSeeAll.user.js
 // ==/UserScript==
 
 (function() {
