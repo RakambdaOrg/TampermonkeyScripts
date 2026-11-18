@@ -7,8 +7,8 @@
 // @match        https://gamekit.com/image/star/*
 // @match        https://dogry.pl/image/star/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitImageAutoRate/GamekitImageAutoRate.user.js
-// @downloadURL  https://raw.githubusercontent.com/MrCraftCod/TampermonkeyScripts/master/GamekitImageAutoRate/GamekitImageAutoRate.user.js
+// @updateURL    https://raw.githubusercontent.com/RakambdaOrg/TampermonkeyScripts/master/GamekitImageAutoRate/GamekitImageAutoRate.user.js
+// @downloadURL  https://raw.githubusercontent.com/RakambdaOrg/TampermonkeyScripts/master/GamekitImageAutoRate/GamekitImageAutoRate.user.js
 // ==/UserScript==
 
 (function() {
